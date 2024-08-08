@@ -1,5 +1,5 @@
 N = (100 + 1) // 2
-while True:
+while True: 
     print("Твое число равно, больше или меньше числа", N, "?")
     answer = int(input("1 - равно, 2 - больше, 3 - меньше: "))
     if answer == 1:
