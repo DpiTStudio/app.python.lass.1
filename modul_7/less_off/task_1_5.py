@@ -5,7 +5,7 @@ print('Задача 3. Лотерея 2')
 winners = 0
 print("Можете брать свои номера, не стесняйтесь.")
 for ticket in 345, 19, 87, 1020, 421:
-    if ticket % 3 == 0:
+    if ticket >= 100 and ticket <= 999:
         print(ticket, "победитель!")
         winners += 1
 print("Кол-во победителей: ", winners)
