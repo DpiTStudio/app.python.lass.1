@@ -1,7 +1,7 @@
 # **Уроки SkillBox** <br>
 
 _Основы 1 часть <br>
-modul 3 готово <br>
+<a href="https://gitlab.skillbox.ru/tigran_abramian/app.python.lass.1/-/tree/master/modul_3">modul 3</a> готово <br>
 modul 4 готово <br>
 modul 5 готово <br>
 modul 6 готово <br>_
