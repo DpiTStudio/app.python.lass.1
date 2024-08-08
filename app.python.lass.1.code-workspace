@@ -1,12 +1,10 @@
 {
 	"folders": [
 		{
-		    "name": "app.python.lass.1",
-			"path": "../OSPanel/domains/app.python.lass.1"
-		},
+			"path": "app.python.lass.1"
+		}
 	],
 	"settings": {
-		"commentTranslate.source": "Google",
-		"commentTranslate.targetLanguage": "ru"
+		"github-enterprise.uri": "https://gitlab.skillbox.ru"
 	}
 }
