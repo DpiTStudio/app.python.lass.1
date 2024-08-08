@@ -1,4 +1,4 @@
-wake_up = int(input("Когда вы проснулись? "))
+wake_up = int(input("Когда вы пqqqроснулись? "))
 awake_hours = 0
 calories_sum = 0
 for hour in range(wake_up, 23):
