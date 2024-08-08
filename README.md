@@ -1,6 +1,6 @@
 # **Уроки SkillBox** <br>
 
-_Основы 1 часть <br>
+_<a href="https://gitlab.skillbox.ru/tigran_abramian/app.python.lass.1">Основы 1 часть</a> <br>
 <a href="https://gitlab.skillbox.ru/tigran_abramian/app.python.lass.1/-/tree/master/modul_3">modul 3</a> готово <br>
 <a href="https://gitlab.skillbox.ru/tigran_abramian/app.python.lass.1/-/tree/master/modul_4">modul 4</a> готово <br>
 <a href="https://gitlab.skillbox.ru/tigran_abramian/app.python.lass.1/-/tree/master/modul_5">modul 5</a> готово <br>
