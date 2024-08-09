@@ -20,3 +20,4 @@ while count_num != 11:
     else:
         print("Не подходит!")
 print("Кол-во подходит: ", count)
+#  конец кода
